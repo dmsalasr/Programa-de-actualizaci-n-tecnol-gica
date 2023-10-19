@@ -1,8 +1,8 @@
 # Programa de actualización tecnológica
 Diego Manuel Salas Rayas
-## Technologies
-Project is created with:
-* [Tarea_01_Herramientas-de-la-maquina-virtual.md](ejemplo.com)
-* [Tarea_02_Comandos-linux.md](ejemolo.com)
-* 
-
+## Actividades
+Tareas:
+* Tarea 1:
+  * [Herramientas de la maquina virtual](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
+* Tarea 2 :
+  * [Tarea 1](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
