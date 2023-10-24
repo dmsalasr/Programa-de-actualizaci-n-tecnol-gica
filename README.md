@@ -4,9 +4,9 @@ Diego Manuel Salas Rayas
 Tareas:
 * Tarea 1:
   * [Herramientas de la maquina virtual](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Herramientas-de-la-maquina-virtual.md)
-* Tarea 2 :
+* Tarea 2 X:
   * [Tarea 1](https://github.com/diego-rayas/DiegoRayas-CreacionVideo/blob/main/Unidad3/Unity3.unitypackage)
-* Tarea 3:
+* Tarea 3 X:
   * [Herramientas de la maquina virtual](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Herramientas-de-la-maquina-virtual.md)
 * Tarea 4 :
   * [Scrum](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/SCRUM.md)
@@ -14,3 +14,5 @@ Tareas:
   * [Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Patrones.md)
 * Tarea 6 :
   * [3 Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/3%20patrones.md)
+* Tarea 7 :
+  * [Lectura Strategy](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Strategy.md)
