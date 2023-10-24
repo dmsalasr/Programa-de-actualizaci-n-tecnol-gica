@@ -1,6 +1,6 @@
 # SCRUM
 ## ¿Qué es SCRUM?
-_Es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias. Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos, caracterizado por:​._
+_Es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias. Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos_
 ## Roles
 ### Product Owner (Dueño del Producto)
 _Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente, pero realmente es una tarea que conlleva lo siguiente:_
