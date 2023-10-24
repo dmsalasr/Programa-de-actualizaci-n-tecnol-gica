@@ -1,29 +1,23 @@
-# Strategy
-_es un patrón de tipo comportamental (behavioral pattern), es decir, se centra en definir la forma en la que se produce el intercambio de mensajes entre distintos componentes. Básicamente, su propósito es mantener un conjunto de algoritmos (estrategias) de entre los cuales el objeto cliente puede elegir aquel que le conviene e intercambiarlo dinámicamente según sus necesidades._
-### Algunos ejemplos en los que puede ser útil:
-- Funcionalidad de exportar que permite elegir distintos formatos: PDF, CSV, XML, JSON…
-- Manejar las opciones de visualización de un texto: alinear izquierda, centrar, alinear derecha, justificar…
-- Calcular la ruta en un sistema GPS basándonos en distintos vehículos: a pie, en bici, en coche…
-- Mover una pieza en juego tipo ajedrez: peón, torre, caballo, alfil, dama, rey
+# Rest
+## ¿Qué es un servicio REST?
+_REST es una interfaz para conectar varios sistemas basados en el protocolo HTTP (uno de los protocolos más antiguos) y nos sirve para obtener y generar datos y operaciones, devolviendo esos datos en formatos muy específicos, como XML y JSON._
 
-### Actores
-_Hay 4 actores diferenciados en este patrón:_
-- Cliente
- 
-_Es quien solicita la acción, también es quien fija la estrategia a utilizar. No forma parte del core de la lógica, solo interactúa con el contexto._
+_El formato más usado en la actualidad es el formato JSON, ya que es más ligero y legible en comparación al formato XML. Elegir uno será cuestión de la lógica y necesidades de cada proyecto._
 
-- Contexto
+_REST se apoya en HTTP, los verbos que utiliza son exactamente los mismos, con ellos se puede hacer GET, POST, PUT y DELETE. De aquí surge una alternativa a SOAP._
 
-_Es la clase que alberga la información necesaria para ejecutar las estrategias y también la clase que hace uso de ellas. Al contexto debemos de informarle de la estrategia a utilizar mediante un setter u otro mecanismo._
+_Cuando hablamos de SOAP hablamos de una arquitectura divididas por niveles que se utilizaba para hacer un servicio, es más complejo de montar como de gestionar y solo trabajaba con XML._
+## ¿Cuáles son los elementos de un servicio REST?
 
-- Interfaz de la estrategia
+- Crea una petición HTTP que contiene toda la información necesaria, es decir, un REQUEST a un servidor tiene toda la información necesaria y solo espera una RESPONSE, ósea una respuesta en concreto.
+- Se apoya sobre un protocolo que es el que se utiliza para las páginas web, que es HTTP, es un protocolo que existe hace muchos años y que ya está consolidado, no se tiene que inventar ni realizar cosas nuevas.
+* Se apoya en los métodos básicos de HTTP, como son:
+  * Post: Para crear recursos nuevos.
+  * Get: Para obtener un listado o un recurso en concreto.
+  * Put: Para modificar.
+  * Patch: Para modificar un recurso que no es un recurso de un dato, por ejemplo.
+  * Delete: Para borrar un recurso, un dato por ejemplo de nuestra base de datos.
+Todos los objetos se manipulan mediante URI, por ejemplo, si tenemos un recurso usuario y queremos acceder a un usuario en concreto nuestra URI seria /user/identificadordelobjeto, con eso ya tendríamos un servicio USER preparado para obtener la información de un usuario, dado un I
 
-_Es el contrato que debe de cumplir cada estrategia que queramos implementar. Este contrato permite al contexto conocer y estandarizar el uso de las estrategias, no teniendo que conocer la implementación final de cada una para tener que ejecutarlas.
-Hay una forma alternativa al uso de la Interfaz de la Estrategia, que es simplemente pasarle el contexto a las estrategias concretas. En ese caso obviamente no sería necesario definir una interfaz._
-
-- Interfaz concreta
-  
-_Es una implementación del contrato de la interfaz, si pensamos en alguno de los casos anteriores de ejemplo, es quien define cómo se mueve un peón, quién sabe cómo se calcula una ruta en bici, quién sabe cómo formatear un texto centrado o cómo formatear un PDF a exportar._
-
-
+_Ahora bien, REST llega a solucionar esa complejidad que añadía SOAP, haciendo mucho más fácil el desarrollo de una API REST, en este caso de un servicio en el cual nosotros vamos a almacenar nuestra lógica de negocio y vamos servir los datos con una serie de recursos URL y una serie de datos que nosotros los limitaremos, es decir, será nuestro BACKEND nuestra lógica pura de negocios que nosotros vamos a utilizar._
 
