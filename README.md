@@ -10,5 +10,7 @@ Tareas:
   * [Herramientas de la maquina virtual](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Herramientas-de-la-maquina-virtual.md)
 * Tarea 4 :
   * [Scrum](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/SCRUM.md)
-* Tarea 4 :
+* Tarea 5 :
   * [Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Patrones.md)
+* Tarea 6 :
+  * [3 Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/3%20patrones.md)
