@@ -10,3 +10,5 @@ Tareas:
   * [Herramientas de la maquina virtual](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Herramientas-de-la-maquina-virtual.md)
 * Tarea 4 :
   * [Scrum](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/SCRUM.md)
+* Tarea 4 :
+  * [Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Patrones.md)
