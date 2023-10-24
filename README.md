@@ -14,5 +14,7 @@ Tareas:
   * [Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Patrones.md)
 * Tarea 6 :
   * [3 Patrones](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/3%20patrones.md)
-* Tarea 7 :
+* Tarea 8 :
   * [Lectura Strategy](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Strategy.md)
+* Tarea 9 :
+  * [Rest](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Rest.md)
