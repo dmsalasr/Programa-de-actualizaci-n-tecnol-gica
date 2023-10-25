@@ -1,23 +1,43 @@
-# Rest
-## ¿Qué es un servicio REST?
-_REST es una interfaz para conectar varios sistemas basados en el protocolo HTTP (uno de los protocolos más antiguos) y nos sirve para obtener y generar datos y operaciones, devolviendo esos datos en formatos muy específicos, como XML y JSON._
+# Investigación
+## Commit
+_Los commits son la base principal del trabajo de Git, ya que es el comando más usado para guardar cualquier cambio en esta herramienta. Si te preguntas qué es un commit y como agregar un commit en git, te puedes hacer una idea al entenderlo como una captura de pantalla del trabajo que haces cada segundo en Git, allí se crea una versión del proyecto en lo que sería el repositorio local.._
+### Caracteristicas
+_Los commits tienen dos características muy importantes las cuales sirven para comprender mejor su funcionamiento._
+- Como usuario, puedes recordar los cambios que fueron aplicados en cualquier versión con fechas anteriores, incluso logrando revertir el progreso del proyecto a esa última versión.
+- Si se editan varios commits en diferentes partes del proyecto, estos cambios no se sobrescribirán entre sí, aunque los autores no tengan conexión alguna. Esto da peso en la balanza a favor de Git en comparación con otras herramientas.
 
-_El formato más usado en la actualidad es el formato JSON, ya que es más ligero y legible en comparación al formato XML. Elegir uno será cuestión de la lógica y necesidades de cada proyecto._
+### Comandos
+_Para genera un commit_
 
-_REST se apoya en HTTP, los verbos que utiliza son exactamente los mismos, con ellos se puede hacer GET, POST, PUT y DELETE. De aquí surge una alternativa a SOAP._
+    $ git commit -a -m 'mensaje o identificador de commit'
 
-_Cuando hablamos de SOAP hablamos de una arquitectura divididas por niveles que se utilizaba para hacer un servicio, es más complejo de montar como de gestionar y solo trabajaba con XML._
-## ¿Cuáles son los elementos de un servicio REST?
 
-- Crea una petición HTTP que contiene toda la información necesaria, es decir, un REQUEST a un servidor tiene toda la información necesaria y solo espera una RESPONSE, ósea una respuesta en concreto.
-- Se apoya sobre un protocolo que es el que se utiliza para las páginas web, que es HTTP, es un protocolo que existe hace muchos años y que ya está consolidado, no se tiene que inventar ni realizar cosas nuevas.
-* Se apoya en los métodos básicos de HTTP, como son:
-  * Post: Para crear recursos nuevos.
-  * Get: Para obtener un listado o un recurso en concreto.
-  * Put: Para modificar.
-  * Patch: Para modificar un recurso que no es un recurso de un dato, por ejemplo.
-  * Delete: Para borrar un recurso, un dato por ejemplo de nuestra base de datos.
-Todos los objetos se manipulan mediante URI, por ejemplo, si tenemos un recurso usuario y queremos acceder a un usuario en concreto nuestra URI seria /user/identificadordelobjeto, con eso ya tendríamos un servicio USER preparado para obtener la información de un usuario, dado un I
+## Rama
+_Una rama Git es simplemente un apuntador móvil apuntando a una de esas confirmaciones. La rama por defecto de Git es la rama master. Con la primera confirmación de cambios que realicemos, se creará esta rama principal master apuntando a dicha confirmación. En cada confirmación de cambios que realicemos, la rama irá avanzando automáticamente._
+### Comandos 
+_Para crear una rama:_
+ 
+    $ git branch nomRama
 
-_Ahora bien, REST llega a solucionar esa complejidad que añadía SOAP, haciendo mucho más fácil el desarrollo de una API REST, en este caso de un servicio en el cual nosotros vamos a almacenar nuestra lógica de negocio y vamos servir los datos con una serie de recursos URL y una serie de datos que nosotros los limitaremos, es decir, será nuestro BACKEND nuestra lógica pura de negocios que nosotros vamos a utilizar._
+_Cambiar de rama_
+
+    $ git checkout nomRama
+
+## Merge
+_La fusión es la forma que tiene Git de volver a unir un historial bifurcado. El comando git merge permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama._
+
+### Funcionamiento
+_git merge combinará varias secuencias de confirmaciones en un historial unificado. En los casos de uso más frecuentes, git merge se utiliza para combinar dos ramas. Los ejemplos siguientes del presente documento se centrarán en este patrón de fusión de ramas. En estos casos, git merge toma dos punteros de confirmación, normalmente los extremos de la rama, y encuentra una confirmación base común entre ellos. Una vez que Git encuentra una confirmación base en común, crea una "confirmación de fusión" nueva que combina los cambios de cada secuencia de confirmación de fusión puesta en cola._
+
+### Codigo 
+_Primero debes de estar en la rama master_
+
+    $ git checkout master
+
+_Cuando estes en la rama master deberas de hacer el merge de la rama con la que quieres hacer el merge_
+
+    $ git merge nomRama
+
+## Rebase
+_Es el proceso de mover o combinar una secuencia de confirmaciones a una nueva confirmación base. El cambio de base es más útil y se visualiza más fácilmente en el contexto de un flujo de trabajo de ramificación de funciones. El proceso general se puede visualizar de la siguiente manera:_
 
