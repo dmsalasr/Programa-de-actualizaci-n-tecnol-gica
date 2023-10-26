@@ -1,6 +1,6 @@
 # Tarea 3
-## Experimentar con algoritmos de digestión
 ## Probar una o dos URL's con Postman
+[Capturas  ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar3)
 # Lectura
 ## Desarrollo en cascada 
 _El desarrollo en cascada (en inglés, waterfall model) es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez. Los resultados de cada una de las fases sirven como hipótesis de partida para la siguiente. El waterfall model se utiliza, especialmente, en el desarrollo de software._
