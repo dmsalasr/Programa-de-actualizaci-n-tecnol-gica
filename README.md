@@ -24,3 +24,5 @@ Tareas:
    * [Spring Boot](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Spring-Boot.md)
  * Tarea 11 :
    * [Git Investigación](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea11.md)
+ * Tarea 12 :
+   * [Credenciales y pruebas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea12.md)
