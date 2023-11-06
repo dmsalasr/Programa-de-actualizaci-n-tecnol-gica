@@ -1,7 +1,6 @@
 # Tarea 3
 ## Algoritmos de digestión
 [Capturas  ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar3_Digestion)
-# Lectura
 ## Probar una o dos URL's con Postman
 [Capturas  ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar3)
 # Lectura
