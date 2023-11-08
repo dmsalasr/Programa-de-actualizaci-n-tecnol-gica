@@ -1,9 +1,20 @@
 # GIT FLOW
-## Investigar y ejecutar los comandos necesarios para almacenar las credenciales (nombre de usuario y contraseña) de GitHub en nuestra computadora y evitar tener que ingresarlas en cada push y/o pull.
-[Capturas ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar12-1)
-## ¿Qué relación hay entre una prueba unitaria y la cobertura de una prueba unitaria?
-### Prueba Unitaria
-_Una prueba unitaria toma una pequeña unidad de la aplicación, normalmente un método, lo aísla del resto del código y comprueba que se comporta según lo previsto. Su objetivo es comprobar que cada unidad de funcionalidad funciona según lo previsto, para que los errores no se propaguen en toda la aplicación. Detectar un error donde se produce es más eficaz que observar el efecto de un error indirectamente en un punto de error secundario._
-### Cobertura De Una Prueba Unitaria
-_La cobertura de pruebas unitarias es una métrica de QA que evalúa si los casos de prueba diseñados cubren el código de la aplicación y la cantidad de este código sometido a prueba cuando se ejecutan esos casos de prueba. Por lo tanto, la cobertura de pruebas ayuda a evaluar la efectividad de sus pruebas al ofrecer datos sobre varios elementos de cobertura._
-
+## Pasos 
+_Los pasos que tuve que realizar para hacer el gitflow fueron los siguientes:_
+1. Lo primero que se hizo fue clonar repositorio que tenia diferentes ramas con git clone.
+1. Cambiarme de rama a Feature con checkout.
+1. vi que habia en la rama con ls.
+1. abri el documento que existia para editarlo con nano
+1. mostre lo que tenia el documento con cat
+2. vi los documentos modificados con git status
+3. utilice el git add
+4. Hice un commit con git commit -m ""
+5. subi los cambios con git push
+6. ingrese a github donde se mostraba que se necesitaba hacer el compare ang git request
+7. abri el git requst y agregue a una persona para que revisara el codigo
+8. a la persona que lo tenia que revisar hizo un comentario y despues aprobo el pull requst.
+9. se da en merge & pulll requst y despues se confirma
+10. Al final se muestra que se realizo el comit de manera correcta
+11. Para terminar regrese a l termil para hacer los pull a las ramas que lo necesitaba
+## Capturas.
+[Capturas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar13)
