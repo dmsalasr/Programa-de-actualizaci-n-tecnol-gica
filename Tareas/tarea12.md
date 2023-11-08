@@ -1,6 +1,5 @@
 # Credenciales y pruebas
 ## Investigar y ejecutar los comandos necesarios para almacenar las credenciales (nombre de usuario y contraseña) de GitHub en nuestra computadora y evitar tener que ingresarlas en cada push y/o pull.
-## Algoritmos de digestión
 [Capturas ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar12-1)
 ## ¿Qué relación hay entre una prueba unitaria y la cobertura de una prueba unitaria?
 ### Prueba Unitaria
