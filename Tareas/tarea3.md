@@ -1,8 +1,22 @@
 # Tarea 3
 ## Algoritmos de digestión
 [Capturas  ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar3_Digestion)
+### ejemplos
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3_Digestion/1.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3_Digestion/2.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3_Digestion/3.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3_Digestion/4.jpeg)
+
 ## Probar una o dos URL's con Postman
 [Capturas  ](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar3)
+### ejemplos
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/1.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/2.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/3.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/4.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/5.jpeg)
+![](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/Img-Tar3/6.jpeg)
+
 # Lectura
 ## Desarrollo en cascada 
 _El desarrollo en cascada (en inglés, waterfall model) es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. Al contrario que en los modelos iterativos, cada una de estas fases se ejecuta tan solo una vez. Los resultados de cada una de las fases sirven como hipótesis de partida para la siguiente. El waterfall model se utiliza, especialmente, en el desarrollo de software._
