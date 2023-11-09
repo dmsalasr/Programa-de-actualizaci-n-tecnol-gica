@@ -28,3 +28,5 @@ Tareas:
    * [Credenciales y pruebas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea12.md)
 * Tarea 13 :
    * [Gitflow](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea13.md)
+* Tarea 14 :
+   * [Conflicto Git](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea14.md)
