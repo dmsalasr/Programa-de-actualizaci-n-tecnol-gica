@@ -1,20 +1,15 @@
-# GIT FLOW
+# Conflicto de GIT
 ## Pasos 
-_Los pasos que tuve que realizar para hacer el gitflow fueron los siguientes:_
-1. Lo primero que se hizo fue clonar repositorio que tenia diferentes ramas con git clone.
-1. Cambiarme de rama a Feature con checkout.
-1. vi que habia en la rama con ls.
-1. abri el documento que existia para editarlo con nano
-1. mostre lo que tenia el documento con cat
-2. vi los documentos modificados con git status
-3. utilice el git add
-4. Hice un commit con git commit -m ""
-5. subi los cambios con git push
-6. ingrese a github donde se mostraba que se necesitaba hacer el compare ang git request
-7. abri el git requst y agregue a una persona para que revisara el codigo
-8. a la persona que lo tenia que revisar hizo un comentario y despues aprobo el pull requst.
-9. se da en merge & pulll requst y despues se confirma
-10. Al final se muestra que se realizo el comit de manera correcta
-11. Para terminar regrese a l termil para hacer los pull a las ramas que lo necesitaba
+_Los pasos que tuve que realizar para hacer el conflicto y corregirlo fueron los siguientes:_
+1. Lo primero que se hizo fue revisar las carpetas que tenia,en la de gitflow ya tenia el proyecto pero para generar el conflicto tuve que crear otra carpeta para que se hiciera pasar por otra computadora.
+1. Me cambie a la carpea que habia creado y ahi mismo clone el repositorio,ingrese a el y Cambie de rama a development con checkout.
+1. Modifique un archivo en la carpeta gitflow2.
+1. Modifique un archivo en la carpeta gitflow.
+1. En la carpeta de gitflow hice el commit y subi cambios sin ningun prroblema
+2. En la carpeta de gitflow2 trate de hacer el commit y subir cambios pero me gnero el conflicto
+3. utilice el nano para abri el archivo
+4. Vi el documento con los conflictos
+5. Edite dejando lo que queria que se subiera.
+6. subi los cambios con git push
 ## Capturas.
-[Capturas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar13)
+[Capturas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/tree/main/Tareas/Img-Tar14)
