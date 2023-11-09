@@ -8,7 +8,7 @@ _Los patrones de diseño pretenden:_
 - Formalizar un vocabulario común entre diseñadores.
 - Estandarizar el modo en que se realiza el diseño. Facilitar el aprendizaje de las nuevas generaciones de diseñadores condensando conocimiento ya existente.
 ## Las diferencias que hay entre un patrón de diseño y un patrón arquitectónico
-###Patrones de arquitectura
+### Patrones de arquitectura
 _Aquellos que expresan un esquema organizativo estructural fundamental para sistemas de software._
 ### Patrones de diseño
 _Aquellos que expresan esquemas para definir estructuras de diseño (o sus relaciones) con las que construir sistemas de software._
