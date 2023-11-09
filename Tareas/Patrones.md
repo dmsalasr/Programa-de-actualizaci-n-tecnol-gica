@@ -1,6 +1,6 @@
 # PATRONES
 ## ¿Qué es un patrón?
-_En el ámbito de la informática y en otras disciplinas los patrones son importantes. En informática, un patrón es una técnica que permite la resolución de problemas de distinta índole, como por ejemplo, problemas de comportamiento, problemas estructurales, o bien, problemas creacionales. Uno de los patrones clave es el patrón Type Class, que vamos a explorar en este post.._
+_Se trata de plantillas que identifican problemas en el sistema y proporcionan soluciones apropiadas a problemas generales a los que se han enfrentado los desarrolladores durante un largo periodo de tiempo, a través de prueba y error.._
 ## ¿Para qué sirven los patrones?
 _Los patrones de diseño pretenden:_
 - Proporcionar catálogos de elementos reusables en el diseño de sistemas software.
