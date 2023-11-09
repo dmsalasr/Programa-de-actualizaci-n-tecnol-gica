@@ -53,7 +53,7 @@ _Es una metodología de seguimiento y pruebas continuas que realiza pequeños aj
 ## Scrum 
 _Es un marco de trabajo ágil a través del cual las personas pueden abordar problemas complejos adaptativos a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. Así, Scrum es una metodología que ayuda a los equipos a colaborar y realizar un trabajo de alto impacto. La metodología Scrum proporciona un plan de valores, roles y pautas para ayudar a tu equipo a concentrarse en la iteración y la mejora continua en proyectos complejos. Por otra parte, deberás saber que en Scrum se trabaja con equipos pequeños multidisciplinares en ciclos iterativos centrados en el cliente y se crea un producto de forma incremental._
 
-##SAFe
+## SAFe
 _es un conjunto de patrones de organización y flujo de trabajo que sirve para implementar prácticas ágiles a escala empresarial. El marco constituye un cúmulo de conocimientos que incluye instrucciones estructuradas sobre las funciones y responsabilidades, la forma de planificar y gestionar el trabajo, y los valores que hay que defender._
 ### Principios y valores fundamentales
 Valores básicos
