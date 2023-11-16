@@ -30,3 +30,9 @@ Tareas:
    * [Gitflow](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea13.md)
 * Tarea 14 :
    * [Conflicto Git](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea14.md)
+* Tarea 15 :
+   * [3 preguntas](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea15.md)
+ * Tarea 16 :
+   * [22 imagenes](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea16.md)
+  * Tarea 17 :
+   * [tecnología JWT](https://github.com/dmsalasr/Programa-de-actualizaci-n-tecnol-gica/blob/main/Tareas/tarea17.md)
